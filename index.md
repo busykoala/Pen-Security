@@ -11,7 +11,7 @@ The tools probably work on most linux distros but are here shown for Arch.
 4. [Forensics](#forensics)
 5. [Cryptography](#cryptography)
 6. [Reverse Engineering](#reverse-engineering)
-7. [Binaries/Files](#binaries-files)
+7. [Binaries/Files](#binaries/files)
 
 ## Network
 
