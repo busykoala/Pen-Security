@@ -38,7 +38,7 @@ $ ship.sh //start program (or create symlink)
 $ ship -i //show interfaces
 ```
 
-There are many other options like [-g] for gateway, [-4|-6] for ipv4/ipv6, [-H] for host, [-HM] for host and mac address, [-e <url>] for the ip of an url, [-c <ip>] to calculate from an IP, or to do port listening [-p <port number>].
+There are many other options like `-g` for gateway, `-4|-6` for ipv4/ipv6, `-H` for host, `-HM` for host and mac address, `-e <url>` for the ip of an url, `-c <ip>` to calculate from an IP, or to do port listening `-p <port number>`.
   
 #### Wireshark
 
