@@ -5,16 +5,16 @@ The tools probably work on most linux distros but are here shown for Arch.
 
 ## Table of Contents
 
-1. [Network](#network)
+### 1. [Network](#network)
   - [Macchanger](#macchanger)
   - [SHIP](#ship)
   
-2. [Database](#database)
-3. [Webseites](#websites)
-4. [Forensics](#forensics)
-5. [Cryptography](#cryptography)
-6. [Reverse Engineering](#reverse-engineering)
-7. [Binaries and Files](#binaries-and-files)
+### 2. [Database](#database)
+### 3. [Webseites](#websites)
+### 4. [Forensics](#forensics)
+### 5. [Cryptography](#cryptography)
+### 6. [Reverse Engineering](#reverse-engineering)
+### 7. [Binaries and Files](#binaries-and-files)
   - [Binwalk](#binwalk)
 
 ## Network
