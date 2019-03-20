@@ -1,4 +1,5 @@
-# Penetration Introduction
+1. [Network](#network)
+2. [Database](#database)
 
 ## Network
 
@@ -47,3 +48,5 @@ There are many other options like `-g` for gateway, `-4|-6` for ipv4/ipv6, `-H` 
 #### Nmap
 
 #### Aircrack-ng
+
+## Database
