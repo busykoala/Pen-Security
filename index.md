@@ -1,5 +1,17 @@
+## About
+
+This repository is thought as a reference, introduction and collection of tools and methods to penetrate.
+The tools probably work on most linux distros but are here shown for Arch.
+
+## Table of Contents
+
 1. [Network](#network)
 2. [Database](#database)
+3. [Webseites](#websites)
+4. [Forensics](#forensics)
+5. [Cryptography](#cryptography)
+6. [Reverse Engineering](#reverse-engineering)
+7. [Binaries/Files](#binaries-files)
 
 ## Network
 
@@ -50,3 +62,13 @@ There are many other options like `-g` for gateway, `-4|-6` for ipv4/ipv6, `-H` 
 #### Aircrack-ng
 
 ## Database
+
+## Webseites
+
+## Forensics
+
+## Cryptography
+
+## Reverse Engineering
+
+## Binaries/Files
