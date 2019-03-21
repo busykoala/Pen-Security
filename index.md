@@ -16,8 +16,6 @@ The tools probably work on most linux distros but are here shown for Arch.
 ### 6. [Reverse Engineering](#reverse-engineering)
 ### 7. [Binaries and Files](#binaries-and-files)
   - [Binwalk](#binwalk)
-  
-### 8. [Test](./test.html)
 
 
 ## Database
