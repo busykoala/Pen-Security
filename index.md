@@ -1,48 +1,16 @@
 ## About
 
-This repository is thought as a reference, introduction and collection of tools and methods to penetrate.
-The tools probably work on most linux distros but are here shown for Arch.
+The purpose of this page is to act as a reference while learning to hack around
+with some cool tools.
+
+If there is an installation instruction it is for arch or kali but the packages
+are very likely to be accessible for other distros as well.
 
 ## Table of Contents
 
-### 1. [Network](./network.html#network)
+### 1. [Network](./network.html)
   - [Macchanger](./network.html#macchanger)
   - [SHIP](./network.html#ship)
   
-### 2. [Database](#database)
-### 3. [Webseites](#websites)
-### 4. [Forensics](#forensics)
-### 5. [Cryptography](#cryptography)
-### 6. [Reverse Engineering](#reverse-engineering)
-### 7. [Binaries and Files](#binaries-and-files)
-  - [Binwalk](#binwalk)
-
-
-## Database
-
-## Webseites
-
-## Forensics
-
-## Cryptography
-
-## Reverse Engineering
-
-## Binaries and Files
-
-### Binwalk
-
-#### Installation
-```
-$ sudo pacman -S binwalk
-```
-#### Usage
-```
-$ binwalk file //show files in file
-$ binwalk -e file //extract files in file
-```
-
-
-
-
-
+### 2. [Forensics](./forensics)
+  - [Binwalk](./forensics#binwalk)
