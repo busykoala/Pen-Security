@@ -1,7 +1,6 @@
 ## About
 
-The purpose of this page is to act as a reference while learning to hack around
-with some cool tools.
+This is a collection of tools, and hints how to use them, for pen-testing and security.
 
 If there is an installation instruction it is for arch or kali but the packages
 are very likely to be accessible for other distros as well.
