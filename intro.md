@@ -28,3 +28,7 @@
 
 Publicly known vulnerabilities can be found for example on platforms like: http://cve.mitre.org/ and
 https://www.exploit-db.com/.
+
+## Metasploit Framework
+
+https://github.com/rapid7/metasploit-framework/
