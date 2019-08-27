@@ -9,9 +9,6 @@ are very likely to be accessible for other distros as well.
 
 ### 1. [Intro](./intro.html)
 
-### 1. [Network](./network.html)
-  - [Macchanger](./network.html#macchanger)
-  - [SHIP](./network.html#ship)
+### 2. [Network](./network.html)
   
-### 2. [Forensics](./forensics)
-  - [Binwalk](./forensics#binwalk)
+### 3. [Forensics](./forensics)
