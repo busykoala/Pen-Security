@@ -29,6 +29,13 @@
 Publicly known vulnerabilities can be found for example on platforms like: http://cve.mitre.org/ and
 https://www.exploit-db.com/.
 
-## Metasploit Framework
+## Virtual Machines
 
-https://github.com/rapid7/metasploit-framework/
+For training purposes virtual machines are very handy.
+The best known are probably `Virtual Box` and `VMware`.
+
+### Resources (VMs and Tasks)
+
+- https://www.vulnhub.com/
+- https://www.hackthebox.eu/
+- https://github.com/rapid7/metasploit-framework/
