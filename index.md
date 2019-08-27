@@ -7,6 +7,8 @@ are very likely to be accessible for other distros as well.
 
 ## Table of Contents
 
+### 1. [Intro](./intro.html)
+
 ### 1. [Network](./network.html)
   - [Macchanger](./network.html#macchanger)
   - [SHIP](./network.html#ship)
