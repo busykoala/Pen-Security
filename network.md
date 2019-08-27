@@ -23,3 +23,9 @@ To list smb servers `sbmtree` can be used.
 
 `hydra` supports many protocols to do parallelized dictionary attacks. Protocols are for example FTP, HTTP(S), IMAP, MySQL, Microsoft SQL, POP3, PostgresSQL, SMTP, Telnet, VNC. Also there is support to "fill" web forms (GET, PUT, POST).  
 Hydra has to be fed with a password list (dictionary).
+
+## Misconfiguration
+
+`nikto` tries to call known paths for systems and lists their vulnerability if found.  
+For example `nikto -h github.com -p 80,443 -o out.txt` will check for vulnerabilities
+on github for port 80 and 443 and add the output to out.txt.
