@@ -1,4 +1,4 @@
-# Network attacking tooling
+# Networking attacking tooling
 
 ## burpsuite
 
