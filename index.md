@@ -1,16 +1,11 @@
 ## About
 
-This is a collection of tools, and hints how to use them, for pen-testing and security.
-
-If there is an installation instruction it is for arch or kali but the packages
-are very likely to be accessible for other distros as well.
+This is a collection of fun tools, and hints how to use them.
 
 ## Table of Contents
 
-### 1. [Intro](./intro.html)
+### 1. [Networking](./networking.html)
 
-### 2. [Network](./network.html) | [Wireless](./wireless.html)
+### 2. [Network attacking tooling](./networking-attack.html)
   
-### 3. [Forensics](./forensics)
-
-### 4. [Reverse](./reverse)
+### 3. [Miscellaneous](./miscellaneous.html)
